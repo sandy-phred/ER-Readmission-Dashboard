@@ -20,8 +20,8 @@ This Power BI dashboard analyzes Emergency Room (ER) visit data to understand pa
 - Excel (data preprocessing)
 
 - ## 📁 Files Included
-- `ER_DashboardSandraMensah.pbix`: Main Power BI report
-- Sandy's Sample.pdf`: Exported PDF version
+- `ER_Dashboard SandraMensah.pbix`: Main Power BI report
+- 'Sandy's Sample.pdf`: Exported PDF version
 
 - ## 👩🏽‍💼 Created By
 **Sandra Mensah**, MHA Candidate, University of North Florida  
